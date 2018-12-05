@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-code-2018",
+  "version": "1.0.0",
+  "description": "advent of code 2018 challenges - https://adventofcode.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "kenny.inthirath@cancerlinq.org",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
